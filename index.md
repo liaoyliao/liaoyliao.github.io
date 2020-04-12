@@ -3,11 +3,11 @@
 
 ## 2018
 
-- Bo Lyu, Yanhua Li, Jie Fu, Andrew C. Trapp, Haiyong Xie, and Yong Liao. Scalable user-substation assignment with big data from power grids. IEEE Transactions on Big Data. 2018.
+- Bo Lyu, Yanhua Li, Jie Fu, Andrew C. Trapp, Haiyong Xie, and Yong Liao. [Scalable user-substation assignment with big data from power grids](https://www.computer.org/csdl/journal/bd/2019/02/08093748/13rRUxlgxOP). IEEE Transactions on Big Data. 2018.
 
 ## 2017
 
-- Qingqing Zhang, Xiaojun Shi, Qingwen Liu, Pengfei Xia, and Yong Liao. Adaptive Distributed Laser Charging for Efficient Wireless Power Transfer. In Proceedings of the 2017 IEEE 86th Vehicular Technology Conference, IEEE VTC 2017, Toronto, Canada, September 2017.
+- Qingqing Zhang, Xiaojun Shi, Qingwen Liu, Pengfei Xia, and Yong Liao. [Adaptive Distributed Laser Charging for Efficient Wireless Power Transfer](https://ieeexplore.ieee.org/abstract/document/8288143). In Proceedings of the 2017 IEEE 86th Vehicular Technology Conference, IEEE VTC 2017, Toronto, Canada, September 2017.
 - Yangyang Li, Linchao Zhang, Yue Jia, Yong Liao, and Haiyong Xie. Calantha: Content Distribution across Geo-Distributed Datacenters. In Proceedings of 2017 IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS), At- lanta, GA, USA, May 2017.
 
 ## 2016
@@ -50,8 +50,8 @@
 
 ## 2010
 
-- Yong Liao, Lixin Gao, Roch Guérin, and Zhi-Li Zhang. Safe Interdomain Routing Under Diverse Commercial Agreements. IEEE/ACM Transactions on Networking, 18(6):1829–1840, December 2010.
-- Deepak Unnikrishnan, Ramakrishna Vadlamani, Yong Liao, Abhishek Dwaraki, Jérémie Crenne, Lixin Gao, and Russell Tessier. Scalable Network Virtualization Using FPGAs. In Proceedings of the 18th Annual ACM/SIGDA International Sym- posium on Field Programmable Gate Arrays, FPGA 2010, pages 219–228, New York, NY, USA, 2010. ACM.
+- Yong Liao, Lixin Gao, Roch Guérin, and Zhi-Li Zhang. Safe Interdomain Routing Under Diverse Commercial Agreements. IEEE/ACM Transactions on Networking, 18(6):1829–1840, December 2010.
+- Deepak Unnikrishnan, Ramakrishna Vadlamani, Yong Liao, Abhishek Dwaraki, Jérémie Crenne, Lixin Gao, and Russell Tessier. Scalable Network Virtualization Using FPGAs. In Proceedings of the 18th Annual ACM/SIGDA International Sym- posium on Field Programmable Gate Arrays, FPGA 2010, pages 219–228, New York, NY, USA, 2010. ACM.
 
 - Yong Liao, Dong Yin, and Lixin Gao. Europa: Efficient User Mode Packet Forwarding in Network Virtualization. In Proceedings of the 2010 Internet Network Management Conference on Research on Enterprise Networking, INM/WREN 2010, pages 6–6. USENIX Association, 2010.
 - Dong Yin, Deepak Unnikrishnan, Yong Liao, Lixin Gao, and Russell Tessier. Customizing Virtual Networks with Partial FPGA Reconfiguration. In Proceedings of the Second ACM SIGCOMM Workshop on Virtualized Infrastructure Systems and Architectures, VISA 2010, pages 57–64, New York, NY, USA, 2010. ACM.
