@@ -13,7 +13,7 @@
 ## 2016
 
 - Bo Lyu, Shijian Li, Yanhua Li, Jie Fu, Andrew Trapp, Haiyong Xie, and Yong Liao. [Scalable User Assignment in Power Grid: A Data Driven Approach](https://dl.acm.org/doi/10.1145/2996913.2996970). In Proceedings of the 24th International Conference on Advances in Geographic Information Systems, ACM SIGSPATIAL 2016, Francisco Bay Area, California, USA, November 2016.
-- Yangyang Li, Haiyong Xie, and Yong Liao. [Blossom: Content Distribution using Inter-Datacenter Networks](Blossom: Content Distribution using Inter-Datacenter Networks). In Proceedings of the 2016 IEEE Global Communications Conference, GLOBECOM 2016, Washington DC, USA, December 2016.
+- Yangyang Li, Haiyong Xie, and Yong Liao. [Blossom: Content Distribution using Inter-Datacenter Networks](https://ieeexplore.ieee.org/abstract/document/7841636). In Proceedings of the 2016 IEEE Global Communications Conference, GLOBECOM 2016, Washington DC, USA, December 2016.
 
 ## 2015
 
