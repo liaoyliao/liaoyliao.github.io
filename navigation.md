@@ -2,6 +2,6 @@
 
 [Home](index.md)
 
-
 [About](about.md)
 
+[gimmick:themechooser](Theme)
