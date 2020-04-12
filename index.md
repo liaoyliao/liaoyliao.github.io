@@ -8,16 +8,16 @@
 ## 2017
 
 - Qingqing Zhang, Xiaojun Shi, Qingwen Liu, Pengfei Xia, and Yong Liao. [Adaptive Distributed Laser Charging for Efficient Wireless Power Transfer](https://ieeexplore.ieee.org/abstract/document/8288143). In Proceedings of the 2017 IEEE 86th Vehicular Technology Conference, IEEE VTC 2017, Toronto, Canada, September 2017.
-- Yangyang Li, Linchao Zhang, Yue Jia, Yong Liao, and Haiyong Xie. Calantha: Content Distribution across Geo-Distributed Datacenters. In Proceedings of 2017 IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS), At- lanta, GA, USA, May 2017.
+- Yangyang Li, Linchao Zhang, Yue Jia, Yong Liao, and Haiyong Xie. [Calantha: Content Distribution across Geo-Distributed Datacenters](https://ieeexplore.ieee.org/document/8116466). In Proceedings of 2017 IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS), At- lanta, GA, USA, May 2017.
 
 ## 2016
 
-- Bo Lyu, Shijian Li, Yanhua Li, Jie Fu, Andrew Trapp, Haiyong Xie, and Yong Liao. Scalable User Assignment in Power Grid: A Data Driven Approach. In Proceedings of the 24th International Conference on Advances in Geographic Information Systems, ACM SIGSPATIAL 2016, Francisco Bay Area, California, USA, November 2016.
-- Yangyang Li, Haiyong Xie, and Yong Liao. Blossom: Content Distribution using Inter-Datacenter Networks. In Proceedings of the 2016 IEEE Global Communications Conference, GLOBECOM 2016, Washington DC, USA, December 2016.
+- Bo Lyu, Shijian Li, Yanhua Li, Jie Fu, Andrew Trapp, Haiyong Xie, and Yong Liao. [Scalable User Assignment in Power Grid: A Data Driven Approach](https://dl.acm.org/doi/10.1145/2996913.2996970). In Proceedings of the 24th International Conference on Advances in Geographic Information Systems, ACM SIGSPATIAL 2016, Francisco Bay Area, California, USA, November 2016.
+- Yangyang Li, Haiyong Xie, and Yong Liao. [Blossom: Content Distribution using Inter-Datacenter Networks](Blossom: Content Distribution using Inter-Datacenter Networks). In Proceedings of the 2016 IEEE Global Communications Conference, GLOBECOM 2016, Washington DC, USA, December 2016.
 
 ## 2015
 
-- Qiang Xu, Yong Liao, Stanislav Miskovic, Mario Baldi, Z. Morley Mao, Antonio Nucci, and Thomas Andrews. Automatic Generation of Mobile App Signatures from Traffic Observations. In Proceedings of the 34rd Annual IEEE International Conference on Computer Communications, INFOCOM 2015, Hong kong, China, 2015.
+- Qiang Xu, Yong Liao, Stanislav Miskovic, Mario Baldi, Z. Morley Mao, Antonio Nucci, and Thomas Andrews. [Automatic Generation of Mobile App Signatures from Traffic Observations](https://liaoyliao.github.io/papers/infocom15-flowr.pdf). In Proceedings of the 34rd Annual IEEE International Conference on Computer Communications, INFOCOM 2015, Hong kong, China, 2015.
 - Stanislav Miskovic, Gene Moo Lee, Yong Liao, and Mario Baldi. AppPrint: Automatic Fingerprinting of Mobile Applications in Network Traffic. In Proceedings of the 16th International Conference on Passive and Active Measurement, PAM 2015, New York City, USA, March 2015.
 - Yongyi Yao, Gyan Ranjan, Alok Tongaonkar, Yong Liao, and Z. Morley Mao. SAMPLES: Self Adaptive Mining of Persistent Lexical Snippets for Classifying Mobile Application Traffic. In Proceedings of the 21st Annual International Conference on Mobile Computing and Networking, MobiCom 2015, Paris, France, September 2015.
 - Yuyan Sun, Hongsong Zhu, Yong Liao, and Limin Sun. Vehicle Anomaly Detection based on Trajectory Data of ANPR System. In Proceedings of the 2015 IEEE Global Communications Conference, GLOBECOM 2015, San Diego, CA, USA, December 2015.
