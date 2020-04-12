@@ -18,17 +18,17 @@
 ## 2015
 
 - Qiang Xu, Yong Liao, Stanislav Miskovic, Mario Baldi, Z. Morley Mao, Antonio Nucci, and Thomas Andrews. [Automatic Generation of Mobile App Signatures from Traffic Observations](https://liaoyliao.github.io/papers/infocom15-flowr.pdf). In Proceedings of the 34rd Annual IEEE International Conference on Computer Communications, INFOCOM 2015, Hong kong, China, 2015.
-- Stanislav Miskovic, Gene Moo Lee, Yong Liao, and Mario Baldi. AppPrint: Automatic Fingerprinting of Mobile Applications in Network Traffic. In Proceedings of the 16th International Conference on Passive and Active Measurement, PAM 2015, New York City, USA, March 2015.
-- Yongyi Yao, Gyan Ranjan, Alok Tongaonkar, Yong Liao, and Z. Morley Mao. SAMPLES: Self Adaptive Mining of Persistent Lexical Snippets for Classifying Mobile Application Traffic. In Proceedings of the 21st Annual International Conference on Mobile Computing and Networking, MobiCom 2015, Paris, France, September 2015.
+- Stanislav Miskovic, Gene Moo Lee, Yong Liao, and Mario Baldi. [AppPrint: Automatic Fingerprinting of Mobile Applications in Network Traffic](https://liaoyliao.github.io/papers/pam2015-final3.pdf). In Proceedings of the 16th International Conference on Passive and Active Measurement, PAM 2015, New York City, USA, March 2015.
+- Yongyi Yao, Gyan Ranjan, Alok Tongaonkar, Yong Liao, and Z. Morley Mao. [SAMPLES: Self Adaptive Mining of Persistent Lexical Snippets for Classifying Mobile Application Traffic](https://dl.acm.org/doi/10.1145/2789168.2790097). In Proceedings of the 21st Annual International Conference on Mobile Computing and Networking, MobiCom 2015, Paris, France, September 2015.
 - Yuyan Sun, Hongsong Zhu, Yong Liao, and Limin Sun. Vehicle Anomaly Detection based on Trajectory Data of ANPR System. In Proceedings of the 2015 IEEE Global Communications Conference, GLOBECOM 2015, San Diego, CA, USA, December 2015.
-- Jiangtao Yin, Yong Liao, Mario Baldi, Lixin Gao, and Antonio Nucci. GOM- Hadoop: A Distributed Framework for Efficient Analytics on Ordered Datasets. Elsevier JPDC - The International Journal of Parallel and Distributed Computing, 83:58–69, September 2015.
+- Jiangtao Yin, Yong Liao, Mario Baldi, Lixin Gao, and Antonio Nucci. [GOM-Hadoop: A Distributed Framework for Efficient Analytics on Ordered Datasets](https://www.sciencedirect.com/science/article/abs/pii/S0743731515000933?via%3Dihub). Elsevier JPDC - The International Journal of Parallel and Distributed Computing, 83:58–69, September 2015.
 
 
 ## 2014
 
-- Yi-Chao Chen, Yong Liao, Mario Baldi, Sung-Ju Lee, and Lili Qiu. OS Fingerprinting and Tethering Detection in Mobile Networks. In Proceedings of the 2014 Internet Measurement Conference, IMC 2014, 2014.
+- Yi-Chao Chen, Yong Liao, Mario Baldi, Sung-Ju Lee, and Lili Qiu. [OS Fingerprinting and Tethering Detection in Mobile Networks](https://dl.acm.org/doi/10.1145/2663716.2663745). In Proceedings of the 2014 Internet Measurement Conference, IMC 2014, 2014.
 - Amedeo Sapio, Yong Liao, Mario Baldi, Gyan Ranjan, Fulvio Risso, Alok Tongaonkar, Ruben Torres, and Antonio Nucci. Per-user policy enforcement on mobile apps through network functions virtualization. In Proceedings of the 9th ACM Workshop on Mobility in the Evolving Internet Architecture, MobiArch 2014, pages 37–42, Maui, Hawaii, USA, 2014. ACM.
-- Qiang Xu, Thomas Andrews, Yong Liao, Stanislav Miskovic, Z. Morley Mao, Mario Baldi, and Antonio Nucci. FLOWR: A Self-Learning System for Classifying Mobile Application Traffic. In Proceedings of the ACM SIGMETRICS/International Conference on Measurement and Modeling of Computer Systems, SIGMETRICS 2014, 2014.
+- Qiang Xu, Thomas Andrews, Yong Liao, Stanislav Miskovic, Z. Morley Mao, Mario Baldi, and Antonio Nucci. [FLOWR: A Self-Learning System for Classifying Mobile Application Traffic](https://liaoyliao.github.io/papers/sigm2103-xu.pdf). In Proceedings of the ACM SIGMETRICS/International Conference on Measurement and Modeling of Computer Systems, SIGMETRICS 2014, 2014.
 
 ## 2013
 
