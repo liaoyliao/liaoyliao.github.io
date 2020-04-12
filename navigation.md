@@ -4,4 +4,4 @@
 
 [About](about.md)
 
-[gimmick:themechooser](Theme)
+[gimmick:theme (inverse: true)](cerulean)
